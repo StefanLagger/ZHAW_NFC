@@ -7,7 +7,7 @@ using Android.Content;
 using Android.Content.PM;
 using Android.Views;
 
-namespace NfcScan.Droid
+namespace NfcScan.Droid	// TEST
 {
     [Activity(
         Label = "Nfc Scan",
